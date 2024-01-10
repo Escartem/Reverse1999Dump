@@ -1,7 +1,7 @@
 # Reverse1999Dump
 
 * [1.0 files](https://github.com/Escartem/Reverse1999Dump/tree/8339b91f10492bfc67f495d66fd79ae594d219d4)
-* [1.2 files](https://github.com/Escartem/Reverse1999Dump/tree/master) (it's the same page as this one ando only textures are updated)
+* [1.2 files](https://github.com/Escartem/Reverse1999Dump/tree/master) (it's the same page as this one and only textures are updated)
 
 the game just released on global, i was bored, so here goes nothing
 
