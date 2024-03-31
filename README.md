@@ -1,7 +1,8 @@
 # Reverse1999Dump
 
-* [1.0 files](https://github.com/Escartem/Reverse1999Dump/tree/8339b91f10492bfc67f495d66fd79ae594d219d4)
-* [1.2 files](https://github.com/Escartem/Reverse1999Dump/tree/master) (it's the same page as this one and only textures are updated)
+* 1.0 -> [browse](https://github.com/Escartem/Reverse1999Dump/tree/8339b91f10492bfc67f495d66fd79ae594d219d4) | [download](https://github.com/Escartem/Reverse1999Dump/archive/8339b91f10492bfc67f495d66fd79ae594d219d4.zip)
+* 1.2 -> [browse](https://github.com/Escartem/Reverse1999Dump/tree/40b8c560e094cccc68fc9035c151ba0ac07e0c27) | [download](https://github.com/Escartem/Reverse1999Dump/archive/40b8c560e094cccc68fc9035c151ba0ac07e0c27.zip)
+* 1.4 -> [browse](https://github.com/Escartem/Reverse1999Dump/tree/eff772d77710bbaa489be45eb5e1fe4b008887e2) | [download](https://github.com/Escartem/Reverse1999Dump/archive/eff772d77710bbaa489be45eb5e1fe4b008887e2.zip)
 
 the game just released on global, i was bored, so here goes nothing
 
